@@ -1,0 +1,17 @@
+.navbar {
+  margin: 0;
+  padding: 0;
+  text-align:center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  background-color:black;
+  width: 100vw;
+}
+.link-text{
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+}
