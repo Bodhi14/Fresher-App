@@ -13,7 +13,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@floating-ui/react-dom": "^1.0.1",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
     "bootstrap": "^5.2.3",
+    "react-floating-action-button": "^1.0.5",
     "react-router": "^6.4.5",
     "react-router-dom": "^6.4.5",
     "react-router-redux": "^4.0.8"

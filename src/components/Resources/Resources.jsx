@@ -1,3 +1,5 @@
+import './resources.css'
+
 const Resources = (props) => {
   return (
     <>
